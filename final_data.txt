@@ -1,0 +1,127 @@
+Frequent 2-item Combinations:
+computer mouse and hard drive disk: 4057
+Antecedent Support: 0.6756
+Consequent Support: 0.5072
+Support: 0.4057
+Confidence: 0.6005032563647129
+Lift: 1.183957524378377
+Leverage: 0.06303568000000004
+Conviction: 1.2335519822156356
+
+computer mouse and keyboard: 5119
+Antecedent Support: 0.6756
+Consequent Support: 0.6649
+Support: 0.5119
+Confidence: 0.7576968620485495
+Lift: 1.1395651406956677
+Leverage: 0.06269355999999998
+Conviction: 1.3829783750763591
+
+SSD and headphones: 4023
+Antecedent Support: 0.5054
+Consequent Support: 0.6597
+Support: 0.4023
+Confidence: 0.79600316580926
+Lift: 1.2066138635883887
+Leverage: 0.06888762000000004
+Conviction: 1.6681631425800196
+
+headphones and keyboard: 5031
+Antecedent Support: 0.6597
+Consequent Support: 0.6649
+Support: 0.5031
+Confidence: 0.7626193724420192
+Lift: 1.1469685252549542
+Leverage: 0.06446546999999997
+Conviction: 1.4116568965517242
+
+SSD and keyboard: 4013
+Antecedent Support: 0.5054
+Consequent Support: 0.6649
+Support: 0.4013
+Confidence: 0.794024535021765
+Lift: 1.1942014363389457
+Leverage: 0.06525954
+Conviction: 1.6268927953890489
+
+SSD and computer mouse: 4044
+Antecedent Support: 0.5054
+Consequent Support: 0.6756
+Support: 0.4044
+Confidence: 0.8001582904629996
+Lift: 1.1843669189801653
+Leverage: 0.06295176000000002
+Conviction: 1.6232847524752474
+
+computer mouse and headphones: 5110
+Antecedent Support: 0.6756
+Consequent Support: 0.6597
+Support: 0.511
+Confidence: 0.756364712847839
+Lift: 1.1465282899012263
+Leverage: 0.06530668000000006
+Conviction: 1.3967599027946542
+
+CPU and computer mouse: 4029
+Antecedent Support: 0.5043
+Consequent Support: 0.6756
+Support: 0.4029
+Confidence: 0.7989292088042832
+Lift: 1.1825476743698684
+Leverage: 0.06219491999999999
+Conviction: 1.6133621301775152
+
+RAM and computer mouse: 4060
+Antecedent Support: 0.5097
+Consequent Support: 0.6756
+Support: 0.406
+Confidence: 0.7965469884245635
+Lift: 1.179021593286802
+Leverage: 0.06164668000000001
+Conviction: 1.594471359691418
+
+hard drive disk and headphones: 4004
+Antecedent Support: 0.5072
+Consequent Support: 0.6597
+Support: 0.4004
+Confidence: 0.7894321766561514
+Lift: 1.1966532918844193
+Leverage: 0.06580016
+Conviction: 1.6161063670411986
+
+CPU and headphones: 4006
+Antecedent Support: 0.5043
+Consequent Support: 0.6597
+Support: 0.4006
+Confidence: 0.794368431489193
+Lift: 1.2041358670444038
+Leverage: 0.06791329000000007
+Conviction: 1.6549015429122476
+
+RAM and headphones: 4018
+Antecedent Support: 0.5097
+Consequent Support: 0.6597
+Support: 0.4018
+Confidence: 0.7883068471649989
+Lift: 1.1949474718281021
+Leverage: 0.06555090999999996
+Conviction: 1.6075153846153838
+
+CPU and keyboard: 4011
+Antecedent Support: 0.5043
+Consequent Support: 0.6649
+Support: 0.4011
+Confidence: 0.7953599048185604
+Lift: 1.1962098132329078
+Leverage: 0.06579093000000003
+Conviction: 1.6375090116279072
+
+Frequent 3-item Combinations:
+computer mouse, headphones, keyboard: 4228
+computer mouse Support: 0.6756
+headphones Support: 0.6597
+keyboard Support: 0.6649
+Support: 0.4228
+Confidence: 0.9486343658908778
+Lift: 1.426732389668939
+
